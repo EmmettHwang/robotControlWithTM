@@ -74,5 +74,8 @@ pip install tensorflow opencv-python pillow pyserial
 2.  **포트 중복 사용**: 아두이노 시리얼 모니터 등 다른 프로그램이 COM 포트를 점유 중이면 실행되지 않습니다. (PermissionError 발생 시 확인 필요)
 
 ---
+<img width="443" height="500" alt="image" src="https://github.com/user-attachments/assets/8921698a-a96f-4832-bb48-28d0c7df98ee" />
 
-[![로봇 동작 시연](https://img.youtube.com/vi/숏츠_비디오_ID/maxresdefault.jpg)](https://youtube.com/shorts/숏츠_비디오_ID)
+<img width="410" height="553" alt="image" src="https://github.com/user-attachments/assets/87cdf029-9636-468d-9a48-6625b46d1efd" />
+
+https://youtube.com/shorts/v38ii_hiWxc?si=_PjQL4xd9vPc-Sj4
