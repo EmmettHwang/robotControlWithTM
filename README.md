@@ -75,3 +75,4 @@ pip install tensorflow opencv-python pillow pyserial
 
 ---
 
+https://youtube.com/shorts/v38ii_hiWxc?si=_PjQL4xd9vPc-Sj4
